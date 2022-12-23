@@ -5,6 +5,11 @@
 
 ![image](https://badgen.net/badge/PR/!open!/green?icon=github) [[GitJournal/GitJournal] Fully localized it.yaml in Italian](https://github.com/GitJournal/GitJournal/pull/668)
 
+### Latest repos
+![image](https://badgen.net/badge/icon/shell?icon=github&label&color=green) [EarlyOwl\ddnsupcheck.sh](https://github.com/EarlyOwl/ddnsupcheck.sh)
+
+![image](https://badgen.net/badge/icon/shell?icon=github&label&color=green) [EarlyOwl\ipdbrep.sh](https://github.com/EarlyOwl/ipdbrep.sh)
+
 
 ```shell
 HTTP/1.1 418 "I'm a Teapot"
