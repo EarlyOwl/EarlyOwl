@@ -1,4 +1,6 @@
 ### Latest repos
+![image](https://badgen.net/badge/icon/PowerShell?icon=github&label&color=blue) [[EarlyOwl\PowerCLI-SysAdmin-Repo]](https://github.com/EarlyOwl/PowerCLI-SysAdmin-Repo) - A repository of useful PowerCLI for your daily SysAdmin duties
+
 ![image](https://badgen.net/badge/icon/shell?icon=github&label&color=green) [[EarlyOwl\HTTeaPot]](https://github.com/EarlyOwl/HTTeaPot) - Simple HTTP responder with netcat for testing purposes
 
 ![image](https://badgen.net/badge/icon/shell?icon=github&label&color=green) [[EarlyOwl\ddnsupcheck.sh]](https://github.com/EarlyOwl/ddnsupcheck.sh) - Automatically checks if your public IP has changed, and if so it verifies if your DDNS record has been updated accordingly
