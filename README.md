@@ -15,7 +15,7 @@
 ![image](https://badgen.net/badge/PR/!open!/green?icon=github) [[GitJournal/GitJournal] Fully localized it.yaml in Italian](https://github.com/GitJournal/GitJournal/pull/668)
 
 
-
+<a href="https://www.abuseipdb.com/user/91864" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks"><img src="https://www.abuseipdb.com/contributor/91864.svg" alt="AbuseIPDB Contributor Badge" style="width: 381px; border-radius: 5px; border-width: 5px; border-style: solid; border-color: rgb(0, 0, 0); padding: 5px; background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.3) 50%, rgba(0, 0, 0, 0.2) 51%, rgba(0, 0, 0, 0)) rgb(216, 204, 178);"></a>
 
 ```shell
 HTTP/1.1 418 "I'm a Teapot"
