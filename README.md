@@ -1,4 +1,6 @@
 ### Latest repos
+![image](https://badgen.net/badge/icon/shell?icon=github&label&color=green) [[EarlyOwl\ShellCSRGen]](https://github.com/EarlyOwl/ShellCSRGen) - Generate a CSR+Key from the shell with a GUI
+
 ![image](https://badgen.net/badge/icon/PowerShell?icon=github&label&color=blue) [[EarlyOwl\PowerCLI-SysAdmin-Repo]](https://github.com/EarlyOwl/PowerCLI-SysAdmin-Repo) - A repository of useful PowerCLI scripts for your daily SysAdmin duties
 
 ![image](https://badgen.net/badge/icon/shell?icon=github&label&color=green) [[EarlyOwl\HTTeaPot]](https://github.com/EarlyOwl/HTTeaPot) - Simple HTTP responder with netcat for testing purposes
